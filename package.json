@@ -1,0 +1,12 @@
+{
+  "name": "force-develop-branch-to-commit",
+  "version": "1.0.0",
+  "description": "This package forces the build command to only run on develop branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["git", "branch", "force", "build"],
+  "author": "rafaelmarques",
+  "license": "ISC"
+}
